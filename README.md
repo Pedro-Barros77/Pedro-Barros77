@@ -14,19 +14,22 @@
   
 </div>
 
-### :man_technologist: Sobre:
-- 21 anos
-- Cursando Sistemas de Informação (UNA - noite)
-- Inglês Fluente
+<details>
+  <summary><h2>:man_technologist: Sobre:</h2></summary>
+  
+  - 21 anos
+  - Cursando Sistemas de Informação (UNA - noite)
+  - Inglês Fluente
 
-Sou fascinado por tecnologia, programação e desenvolvimento em geral.<br>
-No meu tempo livre gosto de:
-- :desktop_computer: Trabalhar em projetos pessoais
-- :video_game: Jogar
-- :guitar: Praticar violão
-- :clapper: Assistir séries
+  Sou fascinado por tecnologia, programação e desenvolvimento em geral.<br>
+  No meu tempo livre gosto de:
+  - :desktop_computer: Trabalhar em projetos pessoais
+  - :video_game: Jogar
+  - :guitar: Praticar violão
+  - :clapper: Assistir séries
 
-Tenho facilidade de aprendizado e muita disposição!
+  Tenho facilidade de aprendizado e muita disposição!
+</details>
 
 ---
 
@@ -51,6 +54,8 @@ Tenho facilidade de aprendizado e muita disposição!
   <img src="https://cdn3.iconfinder.com/data/icons/flat-design-spreadsheet-set-5/24/macros-vba-512.png" title="VBA" alt="VBA" width="50" height="50"/>&nbsp;
   <!-- Angular JS -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular JS" alt="Angular JS" width="50" height="50"/>&nbsp;
+  <!-- Node JS -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node JS" alt="Node JS" width="50" height="50"/>&nbsp;
   <!-- React Native -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React Native" alt="React Native" width="50" height="50"/>&nbsp;
   <!-- Bootstrap -->
@@ -89,4 +94,85 @@ Tenho facilidade de aprendizado e muita disposição!
 
 ### :fire: Atividade no Github:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Barros77&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Barros77&layout=compact&theme=vision-friendly-dark&locale=pt-BR&langs_count=10&hide=ShaderLab&custom_title=Linguagens%20Mais%20Utilizadas" alt="Card Linguagens Mais Utilizadas" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Barros77&hide=issues&show_icons=true&theme=vision-friendly-dark&locale=pt-BR&custom_title=Estat%C3%ADsticas%20do%20Perfil" alt="Estatísticas do Perfil"/>
+</a>
+
+### :floppy_disk: Meus Repositórios:
+<details>
+  <summary>:joystick: ConsolePuzzle_2
+    [
+    <img width="22px" height="22px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" align="center" />
+    ]
+  </summary>
+  
+  > Remasterização de um jogo do tipo Puzzle, criado para o console do windows na linguagem C#, com o objetivo de aprendizagem e otimização da versão original.
+  <br>:mag_right: [Ver mais](https://github.com/Pedro-Barros77/ConsolePuzzle_2)
+</details>
+
+<details>
+  <summary>:dna: Algoritmo-Genetico
+    [
+    <img width="22px" height="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" align="center" />
+    ]
+  </summary>
+  
+  > Um algoritmo genético, baseado no modelo evolutivo de Charles Darwin, para fins de prática e estudos em Inteligência Artificial e Python.
+  <br>:mag_right: [Ver mais](https://github.com/Pedro-Barros77/Algoritmo-Genetico)
+</details>
+
+<details>
+  <summary>:green_book: ManterCursos
+    [
+    <img width="22px" height="22px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" align="center" />,
+    <img width="22px" height="22px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" title="Typescript" align="center" />,
+    <img width="22px" height="22px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript" align="center" />,
+    <img width="22px" height="22px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML" title="HTML" align="center" />,
+    <img width="22px" height="22px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" title="CSS" align="center" />,
+    <img width="22px" height="22px" src="https://i.imgur.com/4cmXLf7.png" alt="SQL Server" align="center" />,
+    <img width="22px" height="22px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular JS" title="Angular JS" align="center" />,
+    <img width="22px" height="22px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node JS" title="Node JS" align="center" />,
+    <img width="22px" height="22px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" align="center" />
+    ]
+  </summary>
+  
+  > Solução WEB para cadastro e gerenciamento de cursos, utilizando Angular e Asp Net Web API.
+  <br>:mag_right: [Ver mais](https://github.com/Pedro-Barros77/ManterCursos)
+</details>
+
+<details>
+  <summary>:books: Livraria
+    [
+    <img width="22px" height="22px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" title="C#" align="center" />,
+    <img width="22px" height="22px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" title="Typescript" align="center" />,
+    <img width="22px" height="22px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript" align="center" />,
+    <img width="22px" height="22px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML" title="HTML" align="center" />,
+    <img width="22px" height="22px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" title="CSS" align="center" />,
+    <img width="22px" height="22px" src="https://i.imgur.com/4cmXLf7.png" alt="SQL Server" align="center" />,
+    <img width="22px" height="22px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular JS" title="Angular JS" align="center" />,
+    <img width="22px" height="22px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node JS" title="Node JS" align="center" />,
+    <img width="22px" height="22px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" align="center" />
+    ]
+  </summary>
+  
+  > Solução WEB para gerenciamento de uma Livraria., utilizando Angular e Asp Net Web API.
+  <br>:mag_right: [Ver mais](https://github.com/Pedro-Barros77/Livraria)
+</details>
+
+<details>
+  <summary>:film_strip: HTML Animation
+    [
+    <img width="22px" height="22px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML" title="HTML" align="center" />,
+    <img width="22px" height="22px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" title="Javascript" align="center" />,
+    <img width="22px" height="22px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" title="CSS" align="center" />
+    ]
+  </summary>
+  
+  > Animação controlável criada puramente com HTML, Javascript e CSS.
+  <br>:mag_right: [Ver mais](https://github.com/Pedro-Barros77/HTML_Animation)
+</details>
+
+### :mag_right: [Ver todos](https://github.com/Pedro-Barros77?tab=repositories)
